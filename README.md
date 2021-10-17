@@ -1,1 +1,3 @@
 # Zazy
+
+Server Status: Online
