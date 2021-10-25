@@ -1,3 +1,3 @@
 # Zazy
 
-Server Status: Online - intermittent optimizations end ss update
+Server Status: Offline - ETA 1500 PST end ss update
