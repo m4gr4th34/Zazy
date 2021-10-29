@@ -1,3 +1,3 @@
 # Zazy
 
-Server Status: Online - intermittent optimizations end ss update
+Server Status: Online end ss update
