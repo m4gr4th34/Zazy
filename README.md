@@ -1,3 +1,3 @@
 # Zazy
 
-Server Status: Offline (server update) end ss update Online
+Server Status: Online end ss update
