@@ -1,3 +1,3 @@
 # Zazy
 
-Server Status: Offline (system maintenance) end ss update Online (please review ㋛ )
+Server Status: Online end ss update Online (please review ㋛ )
