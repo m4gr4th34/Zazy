@@ -1,4 +1,4 @@
 # Zazy
 
-Server Status: Offline [server maintenance] end ss update Online (please review ㋛ )
+Server Status: Offline [android discontinued] end ss update Online (please review ㋛ )
 router used: 002 end ruru
